@@ -1,0 +1,11 @@
+TODO
+
+change Mesh constructor
+implement texture management
+Shorten transformation calls (search for "parent.transform." for examples)
+Lots and lots of rewrites
+implement mins and maxes for all math classes
+Documentation
+make delta float in more places pls
+transition physics to transformation instead of pure position
+reduce overall variable instantiations per frame wherever possible (vague goal, i know)

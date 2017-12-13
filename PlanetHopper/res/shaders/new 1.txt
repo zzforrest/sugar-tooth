@@ -1,0 +1,8 @@
+{a} -> A
+{a} -> B
+lbl 1
+B -> C
+A + B -> B
+C -> A
+print lenA
+goto 1
